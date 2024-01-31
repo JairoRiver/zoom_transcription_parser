@@ -1,0 +1,5 @@
+lxml @ file:///work/perseverance-python-buildout/croot/lxml_1698864653680/work
+python-docx @ file:///home/conda/feedstock_root/build_artifacts/python-docx_1699112376538/work
+setuptools==68.2.2
+typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1702176139754/work
+wheel==0.41.2
